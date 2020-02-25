@@ -4,6 +4,7 @@ go 1.12
 
 require (
 	bou.ke/monkey v1.0.1
+	github.com/go-chi/chi v4.0.3+incompatible
 	github.com/otiai10/gosseract v2.2.1+incompatible
 	github.com/otiai10/marmoset v0.4.0
 	github.com/otiai10/mint v1.2.1
